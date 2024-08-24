@@ -20,8 +20,10 @@ Before you begin, ensure you have the following installed on your system:
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/HelloWorld-CSharp.git
-cd HelloWorld-CSharp
+git clone https://github.com/1am001/csharp-helloworld-docker
+
+cd csharp-helloworld-docker
+
 ```
 
 ### Building and Running with Docker Build the Docker Image
